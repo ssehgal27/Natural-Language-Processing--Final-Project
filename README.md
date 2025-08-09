@@ -41,4 +41,5 @@ Make sure to:
 - Enable GPU in Colab
 - Upload or mount the Kaggle dataset before running
 
+## Link to Google Drive for Presentation- https://drive.google.com/drive/folders/1ztTdcPhvHNn_h8SItChB4ArCoLlkxmIx?usp=share_link
 ---
